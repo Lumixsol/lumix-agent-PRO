@@ -25,7 +25,7 @@ $LUMIX is a meme token on Solana that stands for **real utility** — not fluff.
 
 - Twitter: [https://twitter.com/Lumix_sol](https://twitter.com/Lumix_sol)
 - Linktr: [https://linktr.ee/LUMIXSOL](https://linktr.ee/LUMIXSOL)  
-- Website: Coming soon
+- Website: https://lumixsol.xyz/
   
 
 ---
